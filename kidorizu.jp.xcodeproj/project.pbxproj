@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		452712822C8F28370057774E /* kidorizu_jpApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452712812C8F28370057774E /* kidorizu_jpApp.swift */; };
 		452712842C8F28370057774E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452712832C8F28370057774E /* ContentView.swift */; };
 		452712862C8F28370057774E /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452712852C8F28370057774E /* Item.swift */; };
 		452712882C8F283A0057774E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 452712872C8F283A0057774E /* Assets.xcassets */; };
@@ -16,7 +15,6 @@
 
 /* Begin PBXFileReference section */
 		4527127E2C8F28370057774E /* kidorizu.jp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kidorizu.jp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		452712812C8F28370057774E /* kidorizu_jpApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kidorizu_jpApp.swift; sourceTree = "<group>"; };
 		452712832C8F28370057774E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		452712852C8F28370057774E /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		452712872C8F283A0057774E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -53,7 +51,6 @@
 		452712802C8F28370057774E /* kidorizu.jp */ = {
 			isa = PBXGroup;
 			children = (
-				452712812C8F28370057774E /* kidorizu_jpApp.swift */,
 				452712832C8F28370057774E /* ContentView.swift */,
 				452712852C8F28370057774E /* Item.swift */,
 				452712872C8F283A0057774E /* Assets.xcassets */,
@@ -142,7 +139,6 @@
 			files = (
 				452712842C8F28370057774E /* ContentView.swift in Sources */,
 				452712862C8F28370057774E /* Item.swift in Sources */,
-				452712822C8F28370057774E /* kidorizu_jpApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
